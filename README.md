@@ -34,7 +34,12 @@ _최지민_
 * 스마트IOT
 * 미디어스쿨
 
-github address: [gamja23][github]
+프로그래밍을 배우면서 해보고 싶은 것
+
+>> 스스로 아이디어를 낸 앱이나 게임 개발
+
+
+> MY github address: [gamja23][github]
 
 [github]:http://github.com/gamja23
 
